@@ -11,7 +11,7 @@ Based on [javascript-pong](https://github.com/jakesgordon/javascript-pong/)
 Use the command below:
 
 ```sh
-git clone https://github.com/MLH/pong-game-horizen.git
+git clone https://github.com/AkinAD/pong-game-horizen.git
 ```
 
 ## Setup Script (Optional)
